@@ -12,22 +12,22 @@ define( require => {
   const Sim = require( 'JOIST/Sim' );
   const SimLauncher = require( 'JOIST/SimLauncher' );
   const DiffusionScreen = require( 'GAS_PROPERTIES/diffusion/DiffusionScreen' );
+  const GasPropertiesConstants = require( 'GAS_PROPERTIES/common/GasPropertiesConstants' );
+  const GasPropertiesGlobalOptionsNode = require( 'GAS_PROPERTIES/common/view/GasPropertiesGlobalOptionsNode' );
   const Tandem = require( 'TANDEM/Tandem' );
 
   // strings
   const diffusionTitleString = require( 'string!DIFFUSION/diffusion.title' );
 
-  //TODO get these from GasPropertiesConstants.CREDITS
   const simOptions = {
-    credits: {
-      leadDesign: '',
-      softwareDevelopment: '',
-      team: '',
-      qualityAssurance: '',
-      graphicArts: '',
-      soundDesign: '',
-      thanks: ''
-    }
+
+    // Contents of the Options dialog, accessible via the PhET menu
+    optionsNode: new GasPropertiesGlobalOptionsNode( {
+      hasPressureNoiseCheckbox: false // pressure noise is irrelevant in Diffusion because there is no pressure gauge
+    } ),
+
+    // Credits appear in the About dialog, accessible via the PhET menu
+    credits: GasPropertiesConstants.CREDITS
   };
 
   // launch the sim - beware that scenery Image nodes created outside of SimLauncher.launch() will have zero bounds

@@ -11,7 +11,9 @@
   },
   "phet": {
     "requirejsNamespace": "DIFFUSION",
+    "simulation": true,
     "runnable": true,
+    "colorProfile": true,
     "phetLibs": [
       "gas-properties",
       "twixt"
@@ -19,8 +21,7 @@
     "supportedBrands": [
       "phet",
       "adapted-from-phet"
-    ],
-    "simulation": true
+    ]
   },
   "eslintConfig": {
     "extends": "../chipper/eslint/sim_es6_eslintrc.js"

@@ -21,9 +21,10 @@ define( require => {
 
   const simOptions = {
 
-    // Contents of the Options dialog, accessible via the PhET menu
-    optionsNode: new GasPropertiesGlobalOptionsNode( {
-      hasPressureNoiseCheckbox: false // pressure noise is irrelevant in Diffusion because there is no pressure gauge
+    // Creates content for the Options dialog, accessible via the PhET menu
+    createOptionsDialogContent: tandem => new GasPropertiesGlobalOptionsNode( {
+      hasPressureNoiseCheckbox: false, // pressure noise is irrelevant in Diffusion because there is no pressure gauge
+      tandem: tandem
     } ),
 
     // Credits appear in the About dialog, accessible via the PhET menu

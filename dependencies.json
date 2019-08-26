@@ -1,5 +1,5 @@
 {
-  "comment": "# diffusion 1.0.1 Mon Aug 26 2019 16:55:54 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# diffusion 1.0.2-rc.1 Mon Aug 26 2019 17:01:07 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "201c50a840e082354b013f4ab9e9d45006f98cfe",
     "branch": "HEAD"
@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "cdc65701a9015f78b5fcdf6b5de57bdcf7db90c3",
+    "sha": "247203ea052fe119a97c245cfc5061063287ba6e",
     "branch": "1.0"
   },
   "dot": {
@@ -26,7 +26,7 @@
   },
   "gas-properties": {
     "sha": "265b2874cd01603844a4d19839341a3fdfd44a68",
-    "branch": "1.0"
+    "branch": "HEAD"
   },
   "joist": {
     "sha": "1b5db9cd8aeb20c75fca78b3953bdf1fe5611456",

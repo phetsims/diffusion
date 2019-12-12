@@ -35,7 +35,7 @@ define( require => {
   // until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
   SimLauncher.launch( () => {
     const sim = new Sim( diffusionTitleString, [
-      new DiffusionScreen( Tandem.rootTandem.createTandem( 'diffusionScreen' ) )
+      new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
     ], simOptions );
     sim.start();
   } );

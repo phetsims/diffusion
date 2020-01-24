@@ -105,19 +105,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.leftData.numberOfParticles1Property.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.leftData.numberOfParticles2Property": {
       "phetioDocumentation": "the number of particle of type 2 that are in this side of the container",
       "phetioDynamicElement": false,
@@ -130,19 +117,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.leftData.numberOfParticles2Property.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.leftSettings.initialTemperatureProperty": {
       "phetioDocumentation": "temperature used to determine initial speed of particles",
@@ -157,19 +131,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.leftSettings.initialTemperatureProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.leftSettings.massProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -182,19 +143,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.leftSettings.massProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.leftSettings.numberOfParticlesProperty": {
       "phetioDocumentation": "",
@@ -209,19 +157,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.leftSettings.numberOfParticlesProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.leftSettings.radiusProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -234,19 +169,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.leftSettings.radiusProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.numberOfParticlesProperty": {
       "phetioDocumentation": "total number of particles in the container",
@@ -274,19 +196,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.particleFlowRate1.leftFlowRateProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.particleFlowRate1.rightFlowRateProperty": {
       "phetioDocumentation": "flow rate of particles to the right side of the container",
       "phetioDynamicElement": false,
@@ -299,19 +208,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.particleFlowRate1.rightFlowRateProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.particleFlowRate2.leftFlowRateProperty": {
       "phetioDocumentation": "flow rate of particles to the left side of the container",
@@ -326,19 +222,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.particleFlowRate2.leftFlowRateProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.particleFlowRate2.rightFlowRateProperty": {
       "phetioDocumentation": "flow rate of particles to the right side of the container",
       "phetioDynamicElement": false,
@@ -351,19 +234,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.particleFlowRate2.rightFlowRateProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.rightData.averageTemperatureProperty": {
       "phetioDocumentation": "average temperature in this side of the container",
@@ -391,19 +261,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.rightData.numberOfParticles1Property.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.rightData.numberOfParticles2Property": {
       "phetioDocumentation": "the number of particle of type 2 that are in this side of the container",
       "phetioDynamicElement": false,
@@ -416,19 +273,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.rightData.numberOfParticles2Property.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.rightSettings.initialTemperatureProperty": {
       "phetioDocumentation": "temperature used to determine initial speed of particles",
@@ -443,19 +287,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.rightSettings.initialTemperatureProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.rightSettings.massProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -468,19 +299,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.rightSettings.massProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.rightSettings.numberOfParticlesProperty": {
       "phetioDocumentation": "",
@@ -495,19 +313,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.rightSettings.numberOfParticlesProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.model.rightSettings.radiusProperty": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -520,19 +325,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": false,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.model.rightSettings.radiusProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.model.stopwatch": {
       "phetioDocumentation": "",
@@ -599,19 +391,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.model.stopwatch.timeProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -676,19 +455,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.controlPanel.centerOfMassCheckbox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.controlPanel.centerOfMassCheckbox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -781,19 +547,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.dividerToggleButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.dividerToggleButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -885,19 +638,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.particleFlowRateCheckbox": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
@@ -936,19 +676,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.controlPanel.particleFlowRateCheckbox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.controlPanel.particleFlowRateCheckbox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1054,19 +781,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.scaleCheckbox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.scaleCheckbox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1158,19 +872,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.settingsNode.initialTemperatureControl.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.settingsNode.initialTemperatureControl.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1222,19 +923,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.controlPanel.settingsNode.massControl.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.controlPanel.settingsNode.massControl.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1288,19 +976,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.settingsNode.numberOfParticlesControl.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.settingsNode.numberOfParticlesControl.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1340,19 +1015,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.controlPanel.settingsNode.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.controlPanel.settingsNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1391,19 +1053,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.controlPanel.settingsNode.radiusControl.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.controlPanel.settingsNode.radiusControl.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1482,19 +1131,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.controlPanel.stopwatchCheckbox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.controlPanel.stopwatchCheckbox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1613,19 +1249,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.dataAccordionBox.expandCollapseButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.dataAccordionBox.expandCollapseButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1717,19 +1340,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.dataAccordionBox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.dataAccordionBox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -1768,19 +1378,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1859,19 +1456,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.resetAllButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.resetAllButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -1964,19 +1548,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.timeControlNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -2028,19 +1599,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.timeControlNode.playPauseButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.timeControlNode.playPauseButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -2119,19 +1677,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.timeControlNode.playPauseButton.toggleNode.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.timeControlNode.playPauseButton.toggleNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -2276,19 +1821,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -2327,19 +1859,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -2445,19 +1964,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -2548,19 +2054,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.diffusionScreen.view.timeControlNode.stepForwardButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.diffusionScreen.view.timeControlNode.stepForwardButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -2769,19 +2262,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": false,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.barrierRectangle.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.barrierRectangle.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -3160,19 +2640,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.closeButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.closeButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3251,19 +2718,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3302,19 +2756,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.termsPrivacyAndLicensingText.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.termsPrivacyAndLicensingText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -3381,19 +2822,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.thirdPartyCreditsLinkText.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.thirdPartyCreditsLinkText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3458,19 +2886,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.translationCreditsLinkText.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutDialogCapsule.archetype.translationCreditsLinkText.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -3589,19 +3004,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.aboutMenuItem.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.aboutMenuItem.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3706,19 +3108,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.closeButton.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.closeButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3797,19 +3186,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -3861,19 +3237,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.projectorModeCheckbox.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.projectorModeCheckbox.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -3979,19 +3342,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -4030,19 +3380,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.title.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": true,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.title.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -4161,19 +3498,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.phetButton.phetMenu.optionsMenuItem.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.phetButton.phetMenu.optionsMenuItem.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -4264,19 +3588,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.navigationBar.phetButton.phetMenu.screenshotMenuItem.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
@@ -4369,19 +3680,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.general.navigationBar.titleTextNode.opacityProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
-    },
     "diffusion.general.navigationBar.titleTextNode.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
@@ -4459,19 +3757,6 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioState": true,
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
-    },
-    "diffusion.general.screenIndexProperty.rangeProperty": {
-      "phetioDocumentation": "provides the range of possible values for the parent NumberProperty",
-      "phetioDynamicElement": false,
-      "phetioEventType": "MODEL",
-      "phetioFeatured": false,
-      "phetioHighFrequency": false,
-      "phetioIsArchetype": false,
-      "phetioPlayback": false,
-      "phetioReadOnly": true,
-      "phetioState": true,
-      "phetioStudioControl": true,
-      "phetioTypeName": "PropertyIO<NullableIO<RangeIO>>"
     },
     "diffusion.general.soundManager.enabledProperty": {
       "phetioDocumentation": "",

@@ -5,38 +5,34 @@
  *
  * @author Chris Malley (PixelZoom, Inc.)
  */
-define( require => {
-  'use strict';
 
-  // modules
-  const Sim = require( 'JOIST/Sim' );
-  const SimLauncher = require( 'JOIST/SimLauncher' );
-  const DiffusionScreen = require( 'GAS_PROPERTIES/diffusion/DiffusionScreen' );
-  const GasPropertiesConstants = require( 'GAS_PROPERTIES/common/GasPropertiesConstants' );
-  const GasPropertiesGlobalOptionsNode = require( 'GAS_PROPERTIES/common/view/GasPropertiesGlobalOptionsNode' );
-  const Tandem = require( 'TANDEM/Tandem' );
+import GasPropertiesConstants from '../../gas-properties/js/common/GasPropertiesConstants.js';
+import GasPropertiesGlobalOptionsNode from '../../gas-properties/js/common/view/GasPropertiesGlobalOptionsNode.js';
+import DiffusionScreen from '../../gas-properties/js/diffusion/DiffusionScreen.js';
+import Sim from '../../joist/js/Sim.js';
+import SimLauncher from '../../joist/js/SimLauncher.js';
+import Tandem from '../../tandem/js/Tandem.js';
+import diffusionStrings from './diffusion-strings.js';
 
-  // strings
-  const diffusionTitleString = require( 'string!DIFFUSION/diffusion.title' );
+const diffusionTitleString = diffusionStrings.diffusion.title;
 
-  const simOptions = {
+const simOptions = {
 
-    // Creates content for the Options dialog, accessible via the PhET menu
-    createOptionsDialogContent: tandem => new GasPropertiesGlobalOptionsNode( {
-      hasPressureNoiseCheckbox: false, // pressure noise is irrelevant in Diffusion because there is no pressure gauge
-      tandem: tandem
-    } ),
+  // Creates content for the Options dialog, accessible via the PhET menu
+  createOptionsDialogContent: tandem => new GasPropertiesGlobalOptionsNode( {
+    hasPressureNoiseCheckbox: false, // pressure noise is irrelevant in Diffusion because there is no pressure gauge
+    tandem: tandem
+  } ),
 
-    // Credits appear in the About dialog, accessible via the PhET menu
-    credits: GasPropertiesConstants.CREDITS
-  };
+  // Credits appear in the About dialog, accessible via the PhET menu
+  credits: GasPropertiesConstants.CREDITS
+};
 
-  // launch the sim - beware that scenery Image nodes created outside of SimLauncher.launch() will have zero bounds
-  // until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
-  SimLauncher.launch( () => {
-    const sim = new Sim( diffusionTitleString, [
-      new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
-    ], simOptions );
-    sim.start();
-  } );
+// launch the sim - beware that scenery Image nodes created outside of SimLauncher.launch() will have zero bounds
+// until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
+SimLauncher.launch( () => {
+  const sim = new Sim( diffusionTitleString, [
+    new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
+  ], simOptions );
+  sim.start();
 } );

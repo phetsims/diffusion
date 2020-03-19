@@ -496,7 +496,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "LinkedElementIO"
     },
     "diffusion.diffusionScreen.view.controlPanel.centerOfMassCheckbox.toggleAction": {
-      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. The arguments are:<br/><ol><li>isChecked: BooleanIO</li></ol>",
+      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. No arguments.",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
       "phetioFeatured": false,
@@ -506,7 +506,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ActionIO<BooleanIO>"
+      "phetioTypeName": "ActionIO<>"
     },
     "diffusion.diffusionScreen.view.controlPanel.centerOfMassCheckbox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
@@ -717,7 +717,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "LinkedElementIO"
     },
     "diffusion.diffusionScreen.view.controlPanel.particleFlowRateCheckbox.toggleAction": {
-      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. The arguments are:<br/><ol><li>isChecked: BooleanIO</li></ol>",
+      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. No arguments.",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
       "phetioFeatured": false,
@@ -727,7 +727,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ActionIO<BooleanIO>"
+      "phetioTypeName": "ActionIO<>"
     },
     "diffusion.diffusionScreen.view.controlPanel.particleFlowRateCheckbox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
@@ -821,7 +821,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "LinkedElementIO"
     },
     "diffusion.diffusionScreen.view.controlPanel.scaleCheckbox.toggleAction": {
-      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. The arguments are:<br/><ol><li>isChecked: BooleanIO</li></ol>",
+      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. No arguments.",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
       "phetioFeatured": false,
@@ -831,7 +831,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ActionIO<BooleanIO>"
+      "phetioTypeName": "ActionIO<>"
     },
     "diffusion.diffusionScreen.view.controlPanel.scaleCheckbox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
@@ -3616,7 +3616,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "LinkedElementIO"
     },
     "diffusion.diffusionScreen.view.controlPanel.stopwatchCheckbox.toggleAction": {
-      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. The arguments are:<br/><ol><li>isChecked: BooleanIO</li></ol>",
+      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. No arguments.",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
       "phetioFeatured": false,
@@ -3626,7 +3626,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ActionIO<BooleanIO>"
+      "phetioTypeName": "ActionIO<>"
     },
     "diffusion.diffusionScreen.view.controlPanel.stopwatchCheckbox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
@@ -6333,7 +6333,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioTypeName": "LinkedElementIO"
     },
     "diffusion.general.view.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.projectorModeCheckbox.toggleAction": {
-      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. The arguments are:<br/><ol><li>isChecked: BooleanIO</li></ol>",
+      "phetioDocumentation": "Emits when user input causes the checkbox to toggle, emitting a single arg: the new boolean value of the checkbox state. No arguments.",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
       "phetioFeatured": false,
@@ -6343,7 +6343,7 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": false,
       "phetioStudioControl": true,
-      "phetioTypeName": "ActionIO<BooleanIO>"
+      "phetioTypeName": "ActionIO<>"
     },
     "diffusion.general.view.navigationBar.phetButton.phetMenu.optionsDialogCapsule.archetype.content.projectorModeCheckbox.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",

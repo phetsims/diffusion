@@ -4668,6 +4668,19 @@ window.phet.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NodeIO"
     },
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.enabledProperty": {
+      "phetioDocumentation": "When disabled, the component is grayed out and cannot be interacted with.",
+      "phetioDynamicElement": false,
+      "phetioEventType": "MODEL",
+      "phetioFeatured": true,
+      "phetioHighFrequency": false,
+      "phetioIsArchetype": false,
+      "phetioPlayback": false,
+      "phetioReadOnly": false,
+      "phetioState": true,
+      "phetioStudioControl": true,
+      "phetioTypeName": "PropertyIO<BooleanIO>"
+    },
     "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,

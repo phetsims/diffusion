@@ -12,7 +12,7 @@ import DiffusionScreen from '../../gas-properties/js/diffusion/DiffusionScreen.j
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
 import Tandem from '../../tandem/js/Tandem.js';
-import diffusionStrings from './diffusion-strings.js';
+import diffusionStrings from './diffusionStrings.js';
 
 const diffusionTitleString = diffusionStrings.diffusion.title;
 

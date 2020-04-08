@@ -4850,7 +4850,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -4863,7 +4863,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NodeIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.enabledProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.enabledProperty": {
       "phetioDocumentation": "Determines whether the AquaRadioButton is enabled (pressable) or disabled (grayed-out)",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -4876,7 +4876,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.fireListener.firedEmitter": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.fireListener.firedEmitter": {
       "phetioDocumentation": "A function that executes. The arguments are:<br/><ol><li>event: NullableIO<SceneryEventIO></li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -4889,7 +4889,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "EmitterIO<NullableIO<SceneryEventIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.fireListener.pressAction": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.fireListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the SceneryEvent. The arguments are:<br/><ol><li>event: SceneryEventIO</li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -4902,7 +4902,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<SceneryEventIO>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.fireListener.releaseAction": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.fireListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs. The arguments are:<br/><ol><li>event: NullableIO<SceneryEventIO></li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -4915,7 +4915,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<NullableIO<SceneryEventIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.opacityProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -4928,7 +4928,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.pickableProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -4941,7 +4941,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normal.visibleProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.normalRadioButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -4993,7 +4993,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "LinkedElementIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton": {
       "phetioDocumentation": "",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -5006,7 +5006,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NodeIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.enabledProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.enabledProperty": {
       "phetioDocumentation": "Determines whether the AquaRadioButton is enabled (pressable) or disabled (grayed-out)",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -5019,7 +5019,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<BooleanIO>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.fireListener.firedEmitter": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.fireListener.firedEmitter": {
       "phetioDocumentation": "A function that executes. The arguments are:<br/><ol><li>event: NullableIO<SceneryEventIO></li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -5032,7 +5032,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "EmitterIO<NullableIO<SceneryEventIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.fireListener.pressAction": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.fireListener.pressAction": {
       "phetioDocumentation": "Executes whenever a press occurs. The first argument when executing can be used to convey info about the SceneryEvent. The arguments are:<br/><ol><li>event: SceneryEventIO</li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -5045,7 +5045,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<SceneryEventIO>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.fireListener.releaseAction": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.fireListener.releaseAction": {
       "phetioDocumentation": "Executes whenever a release occurs. The arguments are:<br/><ol><li>event: NullableIO<SceneryEventIO></li></ol>",
       "phetioDynamicElement": false,
       "phetioEventType": "USER",
@@ -5058,7 +5058,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "ActionIO<NullableIO<SceneryEventIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.opacityProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.opacityProperty": {
       "phetioDocumentation": "Opacity of the parent NodeIO, between 0 (invisible) and 1 (fully visible)",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -5071,7 +5071,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "NumberPropertyIO"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.pickableProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.pickableProperty": {
       "phetioDocumentation": "Sets whether the node will be pickable (and hence interactive), see the NodeIO documentation for more details",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",
@@ -5084,7 +5084,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioStudioControl": true,
       "phetioTypeName": "PropertyIO<NullableIO<BooleanIO>>"
     },
-    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slow.visibleProperty": {
+    "diffusion.diffusionScreen.view.timeControlNode.speedRadioButtonGroup.slowRadioButton.visibleProperty": {
       "phetioDocumentation": "Controls whether the Node will be visible (and interactive), see the NodeIO documentation for more details.",
       "phetioDynamicElement": false,
       "phetioEventType": "MODEL",

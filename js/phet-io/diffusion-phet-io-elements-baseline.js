@@ -337,7 +337,7 @@ window.phet.preloads.phetio.phetioElementsBaseline = assert &&
       "phetioReadOnly": false,
       "phetioState": true,
       "phetioStudioControl": true,
-      "phetioTypeName": "ReferenceIO"
+      "phetioTypeName": "ReferenceIO<ObjectIO>"
     },
     "diffusion.diffusionScreen.model.stopwatch.isRunningProperty": {
       "phetioDocumentation": "",

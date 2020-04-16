@@ -14,8 +14,6 @@ import SimLauncher from '../../joist/js/SimLauncher.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import diffusionStrings from './diffusionStrings.js';
 
-const diffusionTitleString = diffusionStrings.diffusion.title;
-
 const simOptions = {
 
   // Creates content for the Options dialog, accessible via the PhET menu
@@ -31,7 +29,7 @@ const simOptions = {
 // launch the sim - beware that scenery Image nodes created outside of SimLauncher.launch() will have zero bounds
 // until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
 SimLauncher.launch( () => {
-  const sim = new Sim( diffusionTitleString, [
+  const sim = new Sim( diffusionStrings.diffusion.title, [
     new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
   ], simOptions );
   sim.start();

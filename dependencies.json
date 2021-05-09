@@ -1,5 +1,5 @@
 {
-  "comment": "# diffusion 1.0.5-rc.1 Fri Apr 23 2021 12:23:51 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# diffusion 1.0.5-rc.1 Sat May 08 2021 21:21:54 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "201c50a840e082354b013f4ab9e9d45006f98cfe",
     "branch": "HEAD"
@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "1ea8a54aeb126a16c08b411a9bf92bd1a12fff9c",
+    "sha": "cd5bd056a6b54889d9f1f559663f8780e82ca202",
     "branch": "1.0"
   },
   "dot": {
@@ -53,8 +53,8 @@
     "branch": "HEAD"
   },
   "phetmarks": {
-    "sha": "c63fc479a616d48d2dd7db54be664c8880f27bb5",
-    "branch": "HEAD"
+    "sha": "8ff479ad6c1eeb1ee4667139d3173ba2ea4647ac",
+    "branch": "diffusion-1.0"
   },
   "query-string-machine": {
     "sha": "c4c6d494b474aeb14d700a8142da81776f62a2ba",

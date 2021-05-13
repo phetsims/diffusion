@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "8abb9b307122a1333361470b5cc0f8cea324459a",
+    "sha": "8928db1eec5371b26e086a6a4c31dd6d824fdf12",
     "branch": "1.0"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "15cebfeed6bbb834f6c916bc3184089de8fddf73",
+    "sha": "3eea5f3f99c0e84eb517dddc5f46c04dc8d2bc5f",
     "branch": "HEAD"
   },
   "kite": {

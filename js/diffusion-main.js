@@ -11,7 +11,7 @@ import GasPropertiesGlobalOptionsNode from '../../gas-properties/js/common/view/
 import DiffusionScreen from '../../gas-properties/js/diffusion/DiffusionScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import Utils from '../../scenery/js/util/Utils.js';
+import { Utils } from '../../scenery/js/imports.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import diffusionStrings from './diffusionStrings.js';
 

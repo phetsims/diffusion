@@ -7,7 +7,6 @@
  */
 
 import GasPropertiesConstants from '../../gas-properties/js/common/GasPropertiesConstants.js';
-import GasPropertiesGlobalOptionsNode from '../../gas-properties/js/common/view/GasPropertiesGlobalOptionsNode.js';
 import DiffusionScreen from '../../gas-properties/js/diffusion/DiffusionScreen.js';
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim from '../../joist/js/Sim.js';
@@ -23,14 +22,6 @@ const simOptions = {
   preferencesModel: new PreferencesModel( {
     visualOptions: {
       supportsProjectorMode: true
-    },
-    generalOptions: {
-      customPreferences: [ {
-        createContent: tandem => new GasPropertiesGlobalOptionsNode( {
-          hasPressureNoiseCheckbox: false, // pressure noise is irrelevant in Diffusion because there is no pressure gauge
-          tandem: tandem.createTandem( 'gasPropertiesPreferencesContent' )
-        } )
-      } ]
     }
   } ),
 

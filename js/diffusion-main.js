@@ -25,7 +25,7 @@ const simOptions = {
       customPreferences: [ {
         createContent: tandem => new GasPropertiesGlobalOptionsNode( {
           hasPressureNoiseCheckbox: false, // pressure noise is irrelevant in Diffusion because there is no pressure gauge
-          tandem: tandem
+          tandem: tandem.createTandem( 'gasPropertiesPreferencesContent' )
         } )
       } ]
     }

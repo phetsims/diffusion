@@ -11,7 +11,7 @@ import diffusion from './diffusion.js';
 type StringsType = {
   'diffusion': {
     'title': string;
-    'titleProperty': TReadOnlyProperty<string>;
+    'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
 

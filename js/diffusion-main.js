@@ -33,7 +33,7 @@ const simOptions = {
 // until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
 simLauncher.launch( () => {
 
-  const sim = new Sim( diffusionStrings.diffusion.title, [
+  const sim = new Sim( diffusionStrings.diffusion.titleStringProperty, [
     new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
   ], simOptions );
 

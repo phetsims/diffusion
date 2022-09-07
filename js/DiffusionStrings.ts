@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const diffusionStrings = getStringModule( 'DIFFUSION' ) as StringsType;
+const DiffusionStrings = getStringModule( 'DIFFUSION' ) as StringsType;
 
-diffusion.register( 'diffusionStrings', diffusionStrings );
+diffusion.register( 'DiffusionStrings', DiffusionStrings );
 
-export default diffusionStrings;
+export default DiffusionStrings;

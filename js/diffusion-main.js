@@ -13,7 +13,7 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import { Utils } from '../../scenery/js/imports.js';
 import Tandem from '../../tandem/js/Tandem.js';
-import diffusionStrings from './diffusionStrings.js';
+import DiffusionStrings from './DiffusionStrings.js';
 
 const simOptions = {
 
@@ -33,7 +33,7 @@ const simOptions = {
 // until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
 simLauncher.launch( () => {
 
-  const sim = new Sim( diffusionStrings.diffusion.titleStringProperty, [
+  const sim = new Sim( DiffusionStrings.diffusion.titleStringProperty, [
     new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
   ], simOptions );
 

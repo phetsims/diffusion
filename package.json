@@ -10,7 +10,6 @@
     "grunt": "~1.5.3"
   },
   "phet": {
-    "colorProfiles": [ "default", "projector" ],
     "requirejsNamespace": "DIFFUSION",
     "simulation": true,
     "runnable": true,
@@ -23,6 +22,12 @@
       "phet-io",
       "adapted-from-phet"
     ],
+    "simFeatures": {
+      "colorProfiles": [
+        "default",
+        "projector"
+      ]
+    },
     "supportsOutputJS": true
   },
   "eslintConfig": {

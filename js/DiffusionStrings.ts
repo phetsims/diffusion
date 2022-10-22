@@ -10,7 +10,6 @@ import diffusion from './diffusion.js';
 
 type StringsType = {
   'diffusion': {
-    'title': string;
     'titleStringProperty': LinkableProperty<string>;
   }
 };

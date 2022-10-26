@@ -1,6 +1,5 @@
 // Copyright 2019-2022, University of Colorado Boulder
 
-// @ts-nocheck
 /**
  * Main entry point for the sim.
  *
@@ -16,27 +15,25 @@ import { Utils } from '../../scenery/js/imports.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import DiffusionStrings from './DiffusionStrings.js';
 
-const simOptions = {
-
-  // Enabled for high-performance Sprites
-  webgl: true,
-  preferencesModel: new PreferencesModel( {
-    visualOptions: {
-      supportsProjectorMode: true
-    }
-  } ),
-
-  // Credits appear in the About dialog, accessible via the PhET menu
-  credits: GasPropertiesConstants.CREDITS
-};
-
-// launch the sim - beware that scenery Image nodes created outside of simLauncher.launch() will have zero bounds
-// until the images are fully loaded, see https://github.com/phetsims/coulombs-law/issues/70
 simLauncher.launch( () => {
 
-  const sim = new Sim( DiffusionStrings.diffusion.titleStringProperty, [
+  const screens = [
     new DiffusionScreen( Tandem.ROOT.createTandem( 'diffusionScreen' ) )
-  ], simOptions );
+  ];
+
+  const sim = new Sim( DiffusionStrings.diffusion.titleStringProperty, screens, {
+
+    // Enabled for high-performance Sprites
+    webgl: true,
+    preferencesModel: new PreferencesModel( {
+      visualOptions: {
+        supportsProjectorMode: true
+      }
+    } ),
+
+    // Credits appear in the About dialog, accessible via the PhET menu
+    credits: GasPropertiesConstants.CREDITS
+  } );
 
   // Log whether we're using WebGL, which is the preferred rendering option for Sprites
   phet.log && phet.log( `using WebGL = ${phet.chipper.queryParameters.webgl && Utils.isWebGLSupported}` );

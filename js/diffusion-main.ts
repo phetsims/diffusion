@@ -22,17 +22,13 @@ simLauncher.launch( () => {
   ];
 
   const sim = new Sim( DiffusionStrings.diffusion.titleStringProperty, screens, {
-
-    // Enabled for high-performance Sprites
-    webgl: true,
+    webgl: true, // Enabled for high-performance Sprites
+    credits: GasPropertiesConstants.CREDITS,
     preferencesModel: new PreferencesModel( {
       visualOptions: {
         supportsProjectorMode: true
       }
-    } ),
-
-    // Credits appear in the About dialog, accessible via the PhET menu
-    credits: GasPropertiesConstants.CREDITS
+    } )
   } );
 
   // Log whether we're using WebGL, which is the preferred rendering option for Sprites

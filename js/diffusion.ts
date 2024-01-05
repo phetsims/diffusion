@@ -2,6 +2,8 @@
 
 /**
  * Creates the namespace for this simulation.
+ *
+ * @author Chris Malley (PixelZoom, Inc.)
  */
 
 // modules

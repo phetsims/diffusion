@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "744f2d4f43b2033af5fdf840bd94e24f4a8393c4",
+    "sha": "3e421e00fd1ae6281502aedf108e4b23654707f6",
     "branch": "1.0"
   },
   "dot": {
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "2f2893e6fe2424dba2e8843a2be412bdc0a6314d",
+    "sha": "b07097a42a46b183a5ab4e8cc69d6ee92e63e796",
     "branch": "HEAD"
   },
   "scenery-phet": {

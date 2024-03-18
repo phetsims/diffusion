@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "42f7960dbbf20b936596f4b3484787dbfa7e0a39",
+    "sha": "95e6bd02550d8d60b5704a515f6c65a0d1443d5c",
     "branch": "1.0"
   },
   "dot": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "c585a918c4e17a26b59e2fff564daa5fd399d413",
+    "sha": "10cec6525796c896724a66feccee89bbeb531f9a",
     "branch": "HEAD"
   },
   "phetmarks": {

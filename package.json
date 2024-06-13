@@ -31,6 +31,9 @@
         "projector"
       ]
     },
+    "phet-io": {
+      "compareDesignedAPIChanges": true
+    },
     "supportsOutputJS": true,
     "published": true
   },

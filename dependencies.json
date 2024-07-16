@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "e8488cf42cf74fa46e344b3e609dde8991d7f1e2",
+    "sha": "4b0cea401b839cc012668a79eb43937b8dc75478",
     "branch": "1.1"
   },
   "dot": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "c46b6595073446eed24403c783e4c33f96e33043",
+    "sha": "2ee2aa1c4ec3b37fdcb450b53ec7fd2605c5ad66",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {

@@ -1,5 +1,5 @@
 {
-  "comment": "# diffusion 1.1.0-rc.3 Tue Jul 30 2024 17:27:48 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# diffusion 1.1.0 Tue Jul 30 2024 18:09:40 GMT-0400 (Eastern Daylight Time)",
   "assert": {
     "sha": "4eaabfefb0b88b213e98b9c7f32d6c570c3fc122",
     "branch": "HEAD"
@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "9ea278958150cc853f0a4acd5601f570d37fae15",
+    "sha": "d808cfd3d0ab39c2ac3ebe9f7366f6d4deef004f",
     "branch": "1.1"
   },
   "dot": {

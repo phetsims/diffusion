@@ -57,7 +57,7 @@
         },
         "parserOptions": {
           "project": [
-            "../diffusion/tsconfig.json"
+            "../chipper/tsconfig/eslint-all/tsconfig.json"
           ]
         }
       }

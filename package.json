@@ -54,6 +54,11 @@
               "ts-nocheck": true
             }
           ]
+        },
+        "parserOptions": {
+          "project": [
+            "../diffusion/tsconfig.json"
+          ]
         }
       }
     ]

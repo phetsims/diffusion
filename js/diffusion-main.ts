@@ -11,10 +11,10 @@ import DiffusionScreen from '../../gas-properties/js/diffusion/DiffusionScreen.j
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim, { SimOptions } from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
+import { combineOptions } from '../../phet-core/js/optionize.js';
 import { Utils } from '../../scenery/js/imports.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import DiffusionStrings from './DiffusionStrings.js';
-import { combineOptions } from '../../phet-core/js/optionize.js';
 
 simLauncher.launch( () => {
 

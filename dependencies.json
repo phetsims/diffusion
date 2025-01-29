@@ -13,11 +13,11 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "facc2134c559512fa92b8fd827474fccd75b935a",
+    "sha": "32a965d19a87a52b10d795011466f71cc1e41206",
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "d808cfd3d0ab39c2ac3ebe9f7366f6d4deef004f",
+    "sha": "c6c74d94c646fa9fd44e64b14b4b476b5a08ada0",
     "branch": "1.1"
   },
   "dot": {
@@ -53,7 +53,7 @@
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "af7ae6d4b597fdb0c1f7bd267d4bd1b1fb6cd6b4",
+    "sha": "b131e1fac4c5b52961e420996af2706c06da8e6f",
     "branch": "HEAD"
   },
   "phetcommon": {

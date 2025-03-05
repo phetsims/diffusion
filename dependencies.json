@@ -9,15 +9,15 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "0e84d480a4e3e5ce0fc42537467d09e7d3ffb192",
+    "sha": "4092ffe2917b93d0bc4e3fc81115156648d3fd75",
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "647902ae6da6f9387c03c6d05b325c1b0dd45d75",
+    "sha": "4720b2ce01533d0ee88f9781f34670decc625407",
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "56180644e5ebb477605270d05961d52a4457f8cf",
+    "sha": "bb61ee859747424a9744c7db30b5f14e3e3c9156",
     "branch": "1.1"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "2f398c8c177174b009d265af16ea6552254b9735",
+    "sha": "650c9e12320286b09fa133c19d75394f892a9118",
     "branch": "HEAD"
   },
   "kite": {
@@ -53,7 +53,7 @@
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "b131e1fac4c5b52961e420996af2706c06da8e6f",
+    "sha": "04dbb72a53ff00d1858ed8e28a665ebb37172571",
     "branch": "HEAD"
   },
   "phetcommon": {

@@ -1,5 +1,5 @@
 {
-  "comment": "# diffusion 1.1.2 Mon Mar 10 2025 13:17:42 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# diffusion 1.1.3-rc.1 Wed May 28 2025 22:37:28 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "4eaabfefb0b88b213e98b9c7f32d6c570c3fc122",
     "branch": "HEAD"
@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "31f36d3fafb3b015303bacfc6ae0f353e1c0e531",
+    "sha": "8fcb834758de782170994eb7b323966f3737afbc",
     "branch": "1.1"
   },
   "dot": {

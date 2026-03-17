@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "diffusion": {
-    "sha": "8f68ab81de672fe711da587cc012f57622c332dd",
+    "sha": "80656ad832f419924a9fcd48372e3bb9cf95057c",
     "branch": "1.1"
   },
   "dot": {
@@ -37,7 +37,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "c6e4e67c88f96101dc96c96e01c1babae2231e8f",
+    "sha": "d816f17ecfc328c7050d9680006d1f340f6ff25d",
     "branch": "HEAD"
   },
   "phet-core": {

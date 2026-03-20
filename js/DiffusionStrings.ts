@@ -19,4 +19,6 @@ type StringsType = {
 
 const DiffusionStrings = getStringModule( 'DIFFUSION' ) as StringsType;
 
+diffusion.register( 'DiffusionStrings', DiffusionStrings );
+
 export default DiffusionStrings;
